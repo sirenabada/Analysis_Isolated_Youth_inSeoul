@@ -1,6 +1,5 @@
 # Analysis_Isolated_Youth_inSeoul
-고립청년분석서 / 서울시 빅데이터 캠퍼스 공모전 참여![2021 서울시빅캠공모전 공모전 포스터](https://user-images.githubusercontent.com/89923272/154190241-452617ef-d06b-476c-be57-8654a4766fb7.jpg)
-
+고립청년분석서 / 2021 서울시 빅데이터 캠퍼스 공모전 참여
 
 
 ## 공모주제
